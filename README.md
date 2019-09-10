@@ -1,2 +1,0 @@
-# StateUpdateTestApp
-Created with CodeSandbox
